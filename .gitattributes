@@ -1,0 +1,3 @@
+ubuntu/private-key.asc !text !filter !merge !diff
+*.deb !text !filter !merge !diff
+*.gz !text !filter !merge !diff
